@@ -1,18 +1,15 @@
-- 👋 Hi, I’m @KasraSorouri 
-- ✨ I’m Business Analyst and Solution Architect. I am ready to assist businesses in their digital transformation journey.
-- 👀 I'm interested in Problem-solving, troubleshooting and learning new things. That is why I love programming.
-- 🌱 I’m doing full stack project using Node, Express, SpringBoot, React, Redux, GraphQL, Mui
-- 🧑‍🔧 I like to work on manufacturing or business systems such as ERP, PLM, PDM, Quality, Logistics, Production Control, and...
+## Turning manufacturing needs into smart software solutions
+ 👋 Hi, I’m <b> @KasraSorouri </b> </br>
+ ✨ I’m a Business Analyst and Solution Architect, helping businesses on their digital transformation journey. </br>
+ 💡 I love solving problems, fixing things, and learning every day — that’s why programming excites me. </br>
+ 🎯 I spend my free time learning, practicing, and building software projects as a hobby, always exploring new tools and ideas. </br>
 
-<h2>About me</h2>
-I'm passionate about Manufacturing, IT, and driving Process and Product Improvements. Combining these interests, I've leveraged my IT Skills to enhance Manufacturing Operations.
+## About Me
+I’m passionate about <b> manufacturing, IT, and improving processes and products </b>. </br>
+With hands-on experience in manufacturing and organizations, I understand their needs and speak their language. In the past, I often acted as a bridge between organizations and software vendors, making sure both sides worked together smoothly. </br>
+I studied Mechanical Engineering and later earned a Master’s in Executive Management. Along the way, I discovered how much I enjoy combining engineering with IT. </br>
+📚 I’m always learning, from self-study, courses, and hands-on projects. </br>
 
-I studied Mechanical Engineering at university and pursued my education in the Master of Executive Management. I love learning and continuously update my IT knowledge through self-learning and various courses.
-
-My inspiration and primary goal is to assist businesses in enhancing their operations and boosting productivity. 
-
-Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kasra-sorouri). 
-Hopefully, we can find a common ground for cooperation.
 
 <!--
 KasraSorouri/KasraSorouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
